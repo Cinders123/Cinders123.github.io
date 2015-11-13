@@ -1,0 +1,15 @@
+body{
+ color: #000033;
+font-size:200%;
+  background: url("http://www.scentbriefs.com/wp-content/uploads/2013/01/mossy.jpg");
+}
+
+
+
+button {
+  font-size: 30px;
+  font-family: Arial;
+  background-color: #999900;
+color: #003300 ;
+  border: 3px dotted #e5e600;
+}
